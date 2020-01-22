@@ -25,6 +25,7 @@ if(input.equals("Rob")) {
 			JOptionPane.showMessageDialog(null, "You are good at typing");
 		
 	}
+		
 	
 	}
 }
